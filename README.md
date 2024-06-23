@@ -7,6 +7,7 @@ Built with `asyncflows`
 
 [![main repo](https://img.shields.io/badge/main_repo-1f425f)](https://github.com/asynchronous-flows/asyncflows)
 [![Discord](https://img.shields.io/badge/discord-7289da)](https://discord.gg/AGZ6GrcJCh)
+[![Colab](https://img.shields.io/badge/Run_it_in_Google_Colab-red)](https://colab.research.google.com/github/asynchronous-flows/hello-world-example/blob/main/hello_world.ipynb)
 
 </div>
 
@@ -20,7 +21,11 @@ Getting started with asyncflows, here is the "Hello World" example, prompting th
 
 ## Running the Example
 
-To run the example:
+Either:
+
+[![Run in Google Colab](https://img.shields.io/badge/Run_it_in_Google_Colab-red)](https://colab.research.google.com/github/asynchronous-flows/hello-world-example/blob/main/hello_world.ipynb)
+
+Or run locally:
 
 1. Set up [Ollama](https://github.com/asynchronous-flows/asyncflows#setting-up-ollama-for-local-inference) or configure [another language model](https://github.com/asynchronous-flows/asyncflows#using-any-language-model)  
 
